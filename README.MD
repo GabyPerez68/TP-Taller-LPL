@@ -98,7 +98,7 @@ Formato de los datos almacenados en 'data.json':
   Requisitos previos
   
   -Node.js
-  -npm 
+  -npm install
 
   ## Instalación
 
@@ -106,7 +106,7 @@ Formato de los datos almacenados en 'data.json':
 
   2. Instala las dependencias:
   -npm  i express.
-  -npm  i -D.
+  -npm  i nodemon -D.
   -npm i Joi.
   
   3. Configura el archivo '.env':
