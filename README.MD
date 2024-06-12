@@ -102,11 +102,11 @@ Formato de los datos almacenados en 'data.json':
 
   ## Instalación
 
-  1. Clona el repositorio:
+  1. Clona el repositorio: https://github.com/GabyPerez68/TP-Taller-LPL.git
 
   2. Instala las dependencias:
   -npm  i express.
-  -npm  i -D.
+  -npm  i -D nodemon.
   -npm i Joi.
   
   3. Configura el archivo '.env':
