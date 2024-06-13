@@ -45,6 +45,7 @@ tp/
 ## Ejemplo de JSON de Datos
 
 Formato de los datos almacenados en 'data.json':
+```js 
 {
   "carreras": [
     {
@@ -93,6 +94,7 @@ Formato de los datos almacenados en 'data.json':
     }
   ]
 }
+```
  ## Configuración del Proyecto
 
   Requisitos previos
