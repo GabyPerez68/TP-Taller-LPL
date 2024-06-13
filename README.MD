@@ -2,10 +2,10 @@
 
 ## Nombre del Grupo: Los Practicantes.
 
--Blanco Luis
--Perez Gabriela
--Velardez Natalia
--Vera Vera Leonardo
+- Blanco Luis
+- Perez Gabriela
+- Velardez Natalia
+- Vera Vera Leonardo
 
 ## Descripción de Proyecto
 Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas. Implementamos una API REST utiliando Node.js y Express para manejar operaciones CRUD sobre las carreras y materias.
