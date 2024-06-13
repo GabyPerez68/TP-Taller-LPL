@@ -8,7 +8,7 @@
 - Vera Vera Leonardo
 
 ## Descripción de Proyecto
-Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas. Implementamos una API REST utiliando Node.js y Express para manejar operaciones CRUD sobre las carreras y materias.
+Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas. Implementamos una API REST utilizando Node.js y Express para manejar operaciones CRUD sobre las carreras y materias.
 
 ## Estructura del Proyecto
 La estructura del proyecto está organizada de la siguiente manera:
