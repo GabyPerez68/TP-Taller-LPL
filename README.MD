@@ -121,17 +121,17 @@ El servidor debe estar corriendo en 'http://localhost:3000'
 ## Endpoints de la API 
 
 Carreras
--GET/carreras: Obtener unas lista de todas las carreras.
--GET/carreras/:id: Obtener una carrera por ID.
--POST/carreras: Crear una nueva carrera.
--PUT/carreras/:id: Actualizar una carrera existente por su ID.
--DELETE/carreras/:id: Eliminar una carrera por ID.
--POST/carreras/:id/materia: Crear una materia dentro de una carrera.
+- GET/carreras: Obtener unas lista de todas las carreras.
+- GET/carreras/:id: Obtener una carrera por ID.
+- POST/carreras: Crear una nueva carrera.
+- PUT/carreras/:id: Actualizar una carrera existente por su ID.
+- DELETE/carreras/:id: Eliminar una carrera por ID.
+- POST/carreras/:id/materia: Crear una materia dentro de una carrera.
 
 Materias 
--GET materias: Obtener una lista de todas las materias.
--GET/materias/:id: Obtener una materia por ID.
--DELETE/materias/:id: Eliminar una materia por ID.
+- GET materias: Obtener una lista de todas las materias.
+- GET/materias/:id: Obtener una materia por ID.
+- DELETE/materias/:id: Eliminar una materia por ID.
 
 
 # Contacto
