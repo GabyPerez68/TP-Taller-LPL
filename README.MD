@@ -35,12 +35,12 @@ tp/
 ```
 ## Descripcion de Carpetas y Archivos
 
--data/: Contiene el archivo data.json que almacena los datos de las carreras y materias.
--src/controladores/: Contiene los controladores que manejan la lógica de negocio de las rutas.
--src/middlewares/: Contiene los middlewares para la validación de esquemas y datos.
--src/models/: Contine los esquemas de validación utilizando Joi.
--src/routes/: Contiene las definiciones de las rutas para carreras y materias.
--app.js: Configura y arranca el servidor Express.
+- data/: Contiene el archivo data.json que almacena los datos de las carreras y materias.
+- src/controladores/: Contiene los controladores que manejan la lógica de negocio de las rutas.
+- src/middlewares/: Contiene los middlewares para la validación de esquemas y datos.
+- src/models/: Contine los esquemas de validación utilizando Joi.
+- src/routes/: Contiene las definiciones de las rutas para carreras y materias.
+- app.js: Configura y arranca el servidor Express.
 
 ## Ejemplo de JSON de Datos
 
