@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo gestionar las carreras universitarias y sus ma
 
 ## Estructura del Proyecto
 La estructura del proyecto está organizada de la siguiente manera:
-
+```js
 tp/
 ├── data/
 │ └── data.json
@@ -32,7 +32,7 @@ tp/
 │ └── app.js
 ├── .env
 └── README.md
-
+```
 ## Descripcion de Carpetas y Archivos
 
 -data/: Contiene el archivo data.json que almacena los datos de las carreras y materias.
